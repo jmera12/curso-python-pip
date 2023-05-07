@@ -8,10 +8,11 @@ python3 main.py
 ```
 
 
-#App Proyect
+# App Proyect
 ```sh
 git clone
 cd app
+python -m venv env 
 source env/bin/activate
 pip install -r requirements.txt
 python3 main.py 
